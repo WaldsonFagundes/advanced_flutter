@@ -7,4 +7,5 @@
 
 ### 2 - Domain Layer
 [Diff - TDD em uma entidade](https://github.com/WaldsonFagundes/advanced_flutter/compare/4a1e6f9..af69381)
+
 [Diff - Entidades com regras de negócio no front](https://github.com/WaldsonFagundes/advanced_flutter/compare/af69381..aff7b47)
