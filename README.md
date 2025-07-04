@@ -15,3 +15,6 @@
 [Diff - Criando caso de uso](https://github.com/WaldsonFagundes/advanced_flutter/compare/a94f7ec..c0192e2)
 
 [Diff - Finalizando caso de uso](https://github.com/WaldsonFagundes/advanced_flutter/compare/c0192e2..494c56f)
+
+### 3 - Infra Layer
+[Diff - Integrando com a lib HTTP](https://github.com/WaldsonFagundes/advanced_flutter/compare/494c56f..607bbb5)
