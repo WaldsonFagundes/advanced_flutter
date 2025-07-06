@@ -3,12 +3,13 @@ import 'dart:typed_data';
 
 import 'package:advanced_flutter/domain/entities/next_event.dart';
 import 'package:advanced_flutter/domain/entities/next_event_player.dart';
+import 'package:advanced_flutter/domain/repositories/load_next_event_repository.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:http/http.dart';
 
 import '../helpers/fakes.dart';
 
-class LoadNextEventHttpRepository {
+class LoadNextEventHttpRepository implements LoadNextEventRepository {
   final Client httpClient;
   final String url;
 
@@ -17,6 +18,7 @@ class LoadNextEventHttpRepository {
     required this.url,
   });
 
+  @override
   Future<NextEvent> loadNextEvent({required String groupId}) async {
     final uri = Uri.parse(url.replaceFirst(':groupId', groupId));
     final headers = {
