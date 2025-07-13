@@ -26,3 +26,5 @@
 [Diff - Identificando problemas de acoplamento](https://github.com/WaldsonFagundes/advanced_flutter/compare/d5e1fea..7a20074)
 
 [Diff - Abstraindo a camada Http](https://github.com/WaldsonFagundes/advanced_flutter/compare/7a20074..5098f1a)
+
+[Diff - Utilizando Generics no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/5098f1a..08069fd)
