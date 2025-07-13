@@ -16,7 +16,7 @@ class LoadNextEventApiRepository implements LoadNextEventRepository {
 
   @override
   Future<NextEvent> loadNextEvent({required String groupId}) async {
-    final json = await httpClient.get(
+    final json = await httpClient.get<Map<String, dynamic>>(
       url: url,
       params: {"groupId": groupId},
     );
@@ -48,7 +48,7 @@ class NextEventPlayerMapper {
 }
 
 abstract class HttpGetClient {
-  Future<dynamic> get({
+  Future<T> get<T>({
     required String url,
     Map<String, String>? params,
   });
@@ -62,7 +62,7 @@ class HttpGetClientSpy implements HttpGetClient {
   Error? error;
 
   @override
-  Future<dynamic> get({
+  Future<T> get<T>({
     required String url,
     Map<String, String>? params,
   }) async {
