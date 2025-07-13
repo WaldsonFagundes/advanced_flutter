@@ -24,3 +24,5 @@
 [Diff - Testando Http Response](https://github.com/WaldsonFagundes/advanced_flutter/compare/39e1143..d5e1fea)
 
 [Diff - Identificando problemas de acoplamento](https://github.com/WaldsonFagundes/advanced_flutter/compare/d5e1fea..7a20074)
+
+[Diff - Abstraindo a camada Http](https://github.com/WaldsonFagundes/advanced_flutter/compare/7a20074..5098f1a)
