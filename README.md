@@ -22,3 +22,5 @@
 [Diff - Testando URL com params e headers](https://github.com/WaldsonFagundes/advanced_flutter/compare/607bbb5..39e1143)
 
 [Diff - Testando Http Response](https://github.com/WaldsonFagundes/advanced_flutter/compare/39e1143..d5e1fea)
+
+[Diff - Testando Http Response](https://github.com/WaldsonFagundes/advanced_flutter/compare/d5e1fea..7a20074)
