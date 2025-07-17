@@ -28,3 +28,5 @@
 [Diff - Abstraindo a camada Http](https://github.com/WaldsonFagundes/advanced_flutter/compare/7a20074..5098f1a)
 
 [Diff - Utilizando Generics no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/5098f1a..08069fd)
+
+[Diff - Testando URL e Method no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/08069fd..f8e1c15)
