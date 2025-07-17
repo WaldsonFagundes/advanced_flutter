@@ -30,3 +30,5 @@
 [Diff - Utilizando Generics no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/5098f1a..08069fd)
 
 [Diff - Testando URL e Method no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/08069fd..f8e1c15)
+
+[Diff - Testando Params e QueryString no HttpClient](https://github.com/WaldsonFagundes/advanced_flutter/compare/f8e1c15..cc9997e)
