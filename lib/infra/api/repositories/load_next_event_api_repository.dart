@@ -20,6 +20,6 @@ class LoadNextEventApiRepository implements LoadNextEventRepository {
       params: {"groupId": groupId},
     );
 
-    return NextEventMapper.toObject(json);
+    return NextEventMapper.toObject(json!);
   }
 }
